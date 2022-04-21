@@ -1,5 +1,5 @@
 # printf
-A simple printf function built by Joak Jeremiah and Precious Okeke for Alx Software Engineering School
+A simple printf function built by Joak Jeremiah and Vodina Efem for ALX Software Engineering School
 # Welcome
 Rebuild of the standard printf function in C. Our project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
 # Format
@@ -157,7 +157,6 @@ Function That Prints An Integer Begining With 0 And u.
 # ev_print_func.c
 Function That Returns The Amount Of Indetifiers.
 # Authors
-Joak Jeremiah - @devjoak
-precious Okeke - @preshcode
-# End
+[Joak Jeremiah](https://github.com/devjoak) and [Vodina Efem](https://github.com/Simplyvoda)
+
  
